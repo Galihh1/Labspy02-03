@@ -35,12 +35,12 @@ Berikut ini kira-kira implementasi logikanya:
 ![image4.png](screenshot/latihan1.png)
 # Penjelasan
 - Berikut penjelasan Latihan1.py
-"print"  : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
-"import" : fungsi lanjut yang dipanggil oleh statement import.
-"random" : untuk menentukan suatu pilihan. 
-"range"  : merupakan fungsi yang menghasilkan list. Fungsi ini akan menciptakan sebuah list baru dengan rentang nilai tertentu. 
-"uniform": digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
-- Maka Hasilnya seperti dibawah ini
+- "print"  : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
+- "import" : fungsi lanjut yang dipanggil oleh statement import.
+- "random" : untuk menentukan suatu pilihan. 
+- "range"  : merupakan fungsi yang menghasilkan list. Fungsi ini akan menciptakan sebuah list baru dengan rentang nilai tertentu. 
+- "uniform": digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
+**Maka Hasilnya seperti dibawah ini**
 ![image5.png](screenshot/hasillat1.png)
 **FLOWCHART DARI PROGRAM DIATAS**
 ![image6.png](screenshot/flowchart2.png)
@@ -51,14 +51,14 @@ Berikut ini kira-kira implementasi logikanya:
 ![image7.png](screenshot/latihan2.png)
 # Penjelasan
 - Berikut penjelasan Latihan2.py
-"max" : fungsi bulid-in untuk mencari nilai tertinggi. Fungsi ini dapat diberikan sebuah parameter berupa angka.
-"while" : disebut uncounted loop (perulangan yang tak terhitung), untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya.
-"int" : berfungsi mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
-"if" = Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu.
-"input" : masukan yang kita berikan ke program.
-"break" : fungsi yang menghentikan operasi dibawahnya jika suatu kondisi yang ditentukan telah tercapai.
-"print" : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
-- Maka hasilnya seperti dibawah ini
+- "max" : fungsi bulid-in untuk mencari nilai tertinggi. Fungsi ini dapat diberikan sebuah parameter berupa angka.
+- "while" : disebut uncounted loop (perulangan yang tak terhitung), untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya.
+- "int" : berfungsi mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
+- "if" = Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu.
+- "input" : masukan yang kita berikan ke program.
+- "break" : fungsi yang menghentikan operasi dibawahnya jika suatu kondisi yang ditentukan telah tercapai.
+- "print" : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
+**Maka hasilnya seperti dibawah ini**
 ![image8.png](screenshot/hasillat2.png)
 **FLOWCHART DARI PROGRAM DIATAS**
 ![image9.png](screenshot/flowchart3.png)
